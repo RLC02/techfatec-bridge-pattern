@@ -1,0 +1,7 @@
+/Users/ricardoluquetticodo/.bob/playground/produto/src/main/java/com/example/produto/ProdutoApplication.java
+/Users/ricardoluquetticodo/.bob/playground/produto/src/main/java/com/example/produto/config/RabbitMQConfig.java
+/Users/ricardoluquetticodo/.bob/playground/produto/src/main/java/com/example/produto/consumer/ProdutoConsumer.java
+/Users/ricardoluquetticodo/.bob/playground/produto/src/main/java/com/example/produto/controller/ProdutoController.java
+/Users/ricardoluquetticodo/.bob/playground/produto/src/main/java/com/example/produto/dto/ProdutoDTO.java
+/Users/ricardoluquetticodo/.bob/playground/produto/src/main/java/com/example/produto/dto/ProdutoEventoDTO.java
+/Users/ricardoluquetticodo/.bob/playground/produto/src/main/java/com/example/produto/producer/ProdutoProducer.java
