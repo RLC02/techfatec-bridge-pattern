@@ -312,5 +312,10 @@ java -cp out cliente.Main
 
 ## Autoria
 
-Projeto desenvolvido para a disciplina de **Padrões de Projeto** — FATEC.  
+Projeto desenvolvido para a disciplina de **Padrões de Projeto** — FATEC.
 Padrão implementado: **Bridge** (GoF — Gang of Four).
+
+| # | Integrante |
+|---|---|
+| 1 | Ricardo |
+| 2 | Guilherme |
