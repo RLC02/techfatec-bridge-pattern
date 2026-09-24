@@ -1,6 +1,0 @@
-com/example/produto/controller/ProdutoController.class
-com/example/produto/dto/ProdutoDTO.class
-com/example/produto/consumer/ProdutoConsumer.class
-com/example/produto/config/RabbitMQConfig.class
-com/example/produto/producer/ProdutoProducer.class
-com/example/produto/ProdutoApplication.class

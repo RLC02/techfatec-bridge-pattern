@@ -1,0 +1,17 @@
+# Compiled output
+out/
+target/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Spring Boot / Maven (não relacionado ao projeto Bridge)
+pom.xml
+src/main/
+src/test/
