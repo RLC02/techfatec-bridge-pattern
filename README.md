@@ -2,6 +2,11 @@
 
 > **Padrão de Projeto: Bridge** | Java | FATEC — Engenharia de Software
 
+| # | Integrante |
+|---|---|
+| 1 | Ricardo |
+| 2 | Guilherme |
+
 ---
 
 ## Sumário
